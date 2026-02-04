@@ -1,4 +1,11 @@
-## Hi there 👋
+##👋 Hi there, This is Varun Balan
+
+Welcome to my GitHub. This is where I showcase my projects.
+
+💻 Current working project: ```Building ConvNeXt from Scratch```
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gjvn/).
+
 
 <!--
 **gjvarun0307/gjvarun0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
