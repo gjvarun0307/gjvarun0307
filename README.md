@@ -1,4 +1,4 @@
-##👋 Hi there, This is Varun Balan
+## 👋 Hi there, This is Varun Balan
 
 Welcome to my GitHub. This is where I showcase my projects.
 
