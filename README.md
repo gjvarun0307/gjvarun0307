@@ -2,7 +2,7 @@
 
 Welcome to my GitHub. This is where I showcase my projects.
 
-💻 Current working project: ```Building ConvNeXt from Scratch```
+💻 Currently working on project: ```Building ConvNeXt from Scratch```
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gjvn/).
 
