@@ -2,7 +2,7 @@
 
 Welcome to my GitHub. This is where I showcase my projects.
 
-💻 Currently working on project: ```Building ConvNeXt from Scratch```
+💻 Currently working on project: ```Multimodal Agentic RAG```
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gjvn/).
 
